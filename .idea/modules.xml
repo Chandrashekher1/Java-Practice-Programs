@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bitwise/Bitwise.iml" filepath="$PROJECT_DIR$/Bitwise/Bitwise.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConditionalLoop/ConditionalLoop.iml" filepath="$PROJECT_DIR$/ConditionalLoop/ConditionalLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/FuntionAssignment/FuntionAssignment.iml" filepath="$PROJECT_DIR$/FuntionAssignment/FuntionAssignment.iml" />

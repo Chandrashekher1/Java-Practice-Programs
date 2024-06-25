@@ -1,9 +1,6 @@
+// FInd the given number is even or Odd
 import java.util.Scanner;
-
-public class Q1 {
-    public Q1() {
-    }
-
+public class NumEvenOdd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number :");
